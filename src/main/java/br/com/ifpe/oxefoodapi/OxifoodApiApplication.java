@@ -1,4 +1,4 @@
-package br.com.ifpe.oxifoodapi;
+package br.com.ifpe.oxefoodapi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
